@@ -1,4 +1,4 @@
-extends "res://libraries/characterControllers2D/CharacterController2D.gd"
+extends "CharacterController2D.gd"
 
 export var up_key : String = "ui_up"
 export var down_key : String = "ui_down"

@@ -1,4 +1,4 @@
-extends "res://libraries/characterControllers2D/CharacterController2D.gd"
+extends "CharacterController2D.gd"
 
 export var max_jumps : int = 1
 export var jump_key : String = "ui_accept"
